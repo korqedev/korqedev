@@ -79,22 +79,6 @@ Building...
 └── Future AI Projects
 ```
 
----
-
-# 📊 GitHub
-
-If the images don't load, replace `YOUR_USERNAME`.
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KorqeDev&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KorqeDev&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
 # ⚡ Fun Facts
 
 * ☕ Coffee makes code compile faster.
