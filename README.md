@@ -1,86 +1,113 @@
-# Hi, I'm YOUR_NAME 👋
+<div align="center">
 
-I'm a Python developer focused on learning, building useful projects, and improving my programming skills.
+# 👋 Hey, I'm YOUR_NAME
 
-## 🐍 About Me
+### 🐍 Python Developer • Builder • Always Learning
 
-* I currently work mainly with Python
-* I enjoy building scripts, tools, and automation projects
-* I'm learning how to work with APIs, databases, and web applications
-* I'm always looking for new projects to challenge myself
-* My goal is to become a stronger software developer
+> *"Write code. Break things. Fix them. Learn. Repeat."*
 
-## 🛠️ Skills
-
-```text
-Python
-Git
-GitHub
-Command Line
-Automation
-APIs
-Problem Solving
-```
-
-## 📚 Currently Learning
-
-* Object-oriented programming
-* Working with APIs
-* SQL and databases
-* Flask and FastAPI
-* Testing and debugging
-* Writing cleaner, more maintainable code
-
-## 🚀 Projects
-
-I'm currently building and improving my Python portfolio.
-
-Some of my projects include:
-
-* Python automation scripts
-* Command-line tools
-* API-based applications
-* Beginner web applications
-* Small games and experiments
-
-Check out my repositories below to follow my progress.
-
-## 🎯 Current Goals
-
-* Build more complete Python projects
-* Improve my Git and GitHub skills
-* Learn backend development
-* Contribute to open-source projects
-* Create software that solves real problems
-
-## 💻 Example
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "YOUR_NAME"
-        self.username = "YOUR_USERNAME"
-        self.language = "Python"
-        self.currently_learning = [
-            "APIs",
-            "Databases",
-            "Backend Development"
-        ]
-
-    def say_hello(self):
-        return "Thanks for visiting my GitHub profile!"
-
-
-me = Developer()
-print(me.say_hello())
-```
-
-## 📫 Contact
-
-You can find me here:
-
-* GitHub: https://github.com/YOUR_USERNAME
+</div>
 
 ---
 
-Thanks for visiting my profile.
+```console
+$ whoami
+
+> Python Developer
+> Loves automation
+> Learning every day
+> Turning ideas into code
+```
+
+## 🚀 About Me
+
+```python
+class Me:
+    def __init__(self):
+        self.name = "YOUR_NAME"
+        self.language = "Python"
+        self.editor = "VS Code"
+        self.os = "Windows"
+        self.currently_learning = [
+            "FastAPI",
+            "SQL",
+            "Automation",
+            "Clean Code"
+        ]
+
+    def status(self):
+        return "Building cool stuff."
+
+
+me = Me()
+print(me.status())
+```
+
+---
+
+# 💻 Tech
+
+```text
+🐍 Python      ████████████
+🔧 Git         █████████░░░
+📦 APIs        ████████░░░░
+🗄️ SQL         ██████░░░░░░
+🌐 Web Dev     ███░░░░░░░░░
+```
+
+---
+
+# 🎯 2026 Goals
+
+* [ ] Build 20+ Python projects
+* [ ] Learn FastAPI
+* [ ] Build my first full web application
+* [ ] Learn SQL properly
+* [ ] Contribute to Open Source
+* [ ] Keep improving every day
+
+---
+
+# 📂 Current Focus
+
+```text
+Building...
+├── Python Scripts
+├── Automation
+├── APIs
+├── Terminal Apps
+└── Future AI Projects
+```
+
+---
+
+# 📊 GitHub
+
+If the images don't load, replace `YOUR_USERNAME`.
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# ⚡ Fun Facts
+
+* ☕ Coffee makes code compile faster.
+* 🐍 Python is my main language.
+* 🧠 I enjoy solving programming problems.
+* 🚀 Always building something new.
+
+---
+
+<div align="center">
+
+### Thanks for stopping by 👋
+
+⭐ Feel free to check out my repositories!
+
+</div>
