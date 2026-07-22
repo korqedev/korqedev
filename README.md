@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm YOUR_NAME
+# 👋 Hey, I'm KorqeDev
 
 ### 🐍 Python Developer • Builder • Always Learning
 
@@ -24,7 +24,7 @@ $ whoami
 ```python
 class Me:
     def __init__(self):
-        self.name = "YOUR_NAME"
+        self.name = "KorqeDev"
         self.language = "Python"
         self.editor = "VS Code"
         self.os = "Windows"
@@ -87,9 +87,9 @@ If the images don't load, replace `YOUR_USERNAME`.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KorqeDev&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KorqeDev&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
