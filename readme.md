@@ -1,97 +1,47 @@
-<div align="center">
+Hey, I'm Xoyqe 👋
+I'm a 20-year-old developer from the UK who enjoys building useful, creative, and security-focused projects.
 
-# 👋 Hey, I'm KorqeDev
+I like working on Discord bots, automation tools, backend systems, and community projects. Right now, I'm developing RiseGuard Anti-Nuke, a free Discord security bot designed to protect servers from raids, mass bans, dangerous role changes, webhook abuse, and server nukes.
 
-### 🐍 Python Developer • Builder • Always Learning
+I enjoy learning by building, testing ideas, fixing problems, and turning small concepts into projects people can actually use.
 
-> *"Write code. Break things. Fix them. Learn. Repeat."*
+🛠️ What I Build
+Discord bots and moderation tools
+Security and anti-nuke systems
+Python automation projects
+Backend utilities and APIs
+Open-source tools for online communities
 
-</div>
-
----
-
-```console
-$ whoami
-
-> Python Developer
-> Loves automation
-> Learning every day
-> Turning ideas into code
-```
-
-## 🚀 About Me
-
-```python
-class Me:
-    def __init__(self):
-        self.name = "KorqeDev"
-        self.language = "Python"
-        self.editor = "VS Code"
-        self.os = "Windows"
-        self.currently_learning = [
-            "FastAPI",
-            "SQL",
-            "Automation",
-            "Clean Code"
-        ]
-
-    def status(self):
-        return "Building cool stuff."
+🚀 Current Project
+RiseGuard Anti-Nuke
+A free Discord security bot with:
+Automatic attacker quarantine
+Raid and mass-join protection
+Channel and role restoration
+Server lockdown tools
+Incident logging
+Backup and recovery commands
+Protection against malicious bots and webhooks
 
 
-me = Me()
-print(me.status())
-```
+🌱 About Me
+📍 Based in the UK
+🎂 20 years old
+🧑‍💻 Known online as Xoyqe
+🔭 Currently building Discord security tools
+🌱 Always learning and improving
+🤝 Open to collaborations and interesting projects
 
----
+📫 Connect With Me
+<!-- Replace these placeholders with your real links. -->
 
-# 💻 Tech
+GitHub: @korqedev
 
-```text
-🐍 Python      ████████████
-🔧 Git         █████████░░░
-📦 APIs        ████████░░░░
-🗄️ SQL         ██████░░░░░░
-🌐 Web Dev     ███░░░░░░░░░
-```
+Discord: tripletextedagain
 
----
+📊 GitHub Stats
+<!-- Replace korqedev below. -->
 
-# 🎯 2026 Goals
 
-* [ ] Build 20+ Python projects
-* [ ] Learn FastAPI
-* [ ] Build my first full web application
-* [ ] Learn SQL properly
-* [ ] Contribute to Open Source
-* [ ] Keep improving every day
+Thanks for visiting my profile. Feel free to check out my projects or reach out if you want to build something cool together. 🌱
 
----
-
-# 📂 Current Focus
-
-```text
-Building...
-├── Python Scripts
-├── Automation
-├── APIs
-├── Terminal Apps
-└── Future AI Projects
-```
-
-# ⚡ Fun Facts
-
-* ☕ Coffee makes code compile faster.
-* 🐍 Python is my main language.
-* 🧠 I enjoy solving programming problems.
-* 🚀 Always building something new.
-
----
-
-<div align="center">
-
-### Thanks for stopping by 👋
-
-⭐ Feel free to check out my repositories!
-
-</div>
