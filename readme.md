@@ -1,73 +1,13 @@
-Hey, I'm Xoyqe 👋
-I'm a 20-year-old developer from the UK who enjoys building useful, creative, and security-focused projects.
+# Hi, I’m Xoyqe 👋
 
-I like working on Discord bots, automation tools, backend systems, and community projects. Right now, I'm developing RiseGuard Anti-Nuke, a free Discord security bot designed to protect servers from raids, mass bans, dangerous role changes, webhook abuse, and server nukes.
+i’m a 20 year old developer from the uk. i like building discord bots, automation tools and security projects that are actually useful.
 
-I enjoy learning by building, testing ideas, fixing problems, and turning small concepts into projects people can actually use.
+right now i’m working on a free anti-nuke bot for discord called **RiseGuard**. it’s built to help protect servers from raids, mass bans, deleted channels, dangerous role changes, webhook abuse and other destructive actions.
 
-🛠️ What I Build
-Discord bots and moderation tools
+most of my work is in python, especially with discord.py. i enjoy backend development, bot systems, moderation tools and experimenting with new ideas until they work properly.
 
-Security and anti-nuke systems
+i’m still learning, improving and building more projects over time. open source is something i want to get more involved with, and i’m always down to collaborate on something interesting.
 
-Python automation projects
+you can check out some of my projects below.
 
-Backend utilities and APIs
-
-Open-source tools for online communities
-
-🚀 Current Project
-RiseGuard Anti-Nuke
-A free Discord security bot with:
-
-Automatic attacker quarantine
-
-Raid and mass-join protection
-
-Channel and role restoration
-
-Server lockdown tools
-
-Incident logging
-
-Backup and recovery commands
-
-Protection against malicious bots and webhooks
-
-💻 Tech
-
-
-
-
-
-🌱 About Me
-📍 Based in the UK
-
-🎂 20 years old
-
-🧑‍💻 Known online as Xoyqe
-
-🔭 Currently building Discord security tools
-
-🌱 Always learning and improving
-
-🤝 Open to collaborations and interesting projects
-
-📫 Connect With Me
-<!-- Replace these placeholders with your real links. -->
-
-GitHub: @YOUR_GITHUB_USERNAME
-
-Discord: YOUR_DISCORD_USERNAME
-
-Email: YOUR_EMAIL_ADDRESS
-
-📊 GitHub Stats
-<!-- Replace YOUR_GITHUB_USERNAME below. -->
-
-
-
-
-
-Thanks for visiting my profile. Feel free to check out my projects or reach out if you want to build something cool together. 🌱
-
+thanks for visiting 🌱
