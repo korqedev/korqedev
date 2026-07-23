@@ -22,9 +22,9 @@ I'm enthusiastic about crafting elegant solutions to complex problems. My focus 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-[![korqedev's GitHub stats](https://github-readme-stats.vercel.app/api?username=korqedev&show_icons=true&theme=radical)](https://github.com/korqedev)
+[![GitHub Streak](https://streak-stats.demolab.com?user=korqedev&theme=radical)](https://git.io/streak-stats)
 
 ## 🎯 Current Focus
 
